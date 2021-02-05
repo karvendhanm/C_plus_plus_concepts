@@ -1,6 +1,7 @@
 #include "Cube.h"
 
 namespace uiuc {
+    // Shape(width) is called the initializer list.
     Cube::Cube(double width, uiuc::HSLAPixel color) : Shape(width) {
         color_ = color;
     }

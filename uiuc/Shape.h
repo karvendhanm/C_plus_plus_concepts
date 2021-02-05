@@ -12,4 +12,5 @@ class Shape{
         double getWidth() const;
     private:
         double width_;
+        double height_;
 };

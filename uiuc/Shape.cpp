@@ -1,10 +1,10 @@
 #include "Shape.h"
 
-Shape:Shape() {
+Shape::Shape() {
     width_ = 1.0;
 }
 
-Shape:Shape(double width) {
+Shape::Shape(double width) {
     width_ = width;
 }
 

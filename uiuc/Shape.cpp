@@ -4,6 +4,7 @@
 //    width_ = 1.0;
 //}
 
+// custom default constructor is calling the 1 parameter constructor.
 Shape::Shape() : Shape(1.0) {
     // Nothing.
 }
@@ -12,6 +13,7 @@ Shape::Shape() : Shape(1.0) {
 //    width_ = width;
 //}
 
+// assigning the value of private member.
 Shape::Shape(double width) : width_(width) {
     // Nothing.
 }

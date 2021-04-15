@@ -1,0 +1,7 @@
+#ifndef C_PLUS_PLUS_CONCEPTS_ARRAYS_H
+#define C_PLUS_PLUS_CONCEPTS_ARRAYS_H
+
+#endif //C_PLUS_PLUS_CONCEPTS_ARRAYS_H
+
+void arrays_construct();
+
